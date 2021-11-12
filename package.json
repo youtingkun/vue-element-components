@@ -1,5 +1,5 @@
 {
-  "name": "@youtingkun/vue-components",
+  "name": "@youtingkun/vue-element-components",
   "version": "1.0.0",
   "private": false,
   "main": "lib/index.umd.min.js",
